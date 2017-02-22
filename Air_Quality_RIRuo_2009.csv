@@ -1,0 +1,143 @@
+State,City,Sulfur dioxide(SO2)-Annual average(µg/m3),Sulfur dioxide(SO2)-Air Quality,Nitrogen dioxide(NO2)-Annual average(µg/m3),Nitrogen dioxide(NO2)-Air Quality,PM 10-Annual average(µg/m3),PM 10-Air Quality
+Andhra Pradesh,Guntur,4,NA,9,NA,85,NA
+Andhra Pradesh,Hydrabad,5,Low,23,Moderate,81,High
+Andhra Pradesh,Kakinada,4,NA,9,NA,48,NA
+Andhra Pradesh,Kurnool,4,Low,9,Low,81,High
+Andhra Pradesh,Nalgonda,5,NA,24,NA,101,NA
+Andhra Pradesh,Nellore,6,NA,14,NA,118,NA
+Andhra Pradesh,Patencheru,16,Low,25,Moderate,87,High
+Andhra Pradesh,Ramagundam,4,Low,14,Low,104,Critical
+Andhra Pradesh,Vijaywada,6,Low,15,Low,87,High
+Andhra Pradesh,Visakhapatnam,11,Low,26,Moderate,93,Critical
+Andhra Pradesh,Warangal,4,NA,10,NA,69,NA
+Assam,Bongaigaon,6,Low,15,Low,84,High
+Assam,Daranga,5,Low,13,Low,77,High
+Assam,Dibrugarh,5,Low,13,Low,41,Moderate
+Assam,Golaghat,6,Low,14,Low,65,High
+Assam,Guwahati,8,Low,16,Low,122,Critical
+Assam,Hailakandi,6,NA,13,NA,88,NA
+Assam,Mergherita,12,NA,22,NA,42,NA
+Assam,Nagaon,7,NA,18,NA,161,NA
+Assam,North Lakhimpur Town,6,NA,15,NA,73,NA
+Assam,Sibsagar,5,Low,13,Low,100,Critical
+Assam,Silchar,6,Low,15,Low,58,Moderate
+Assam,Tezpur,6,Low,13,Low,90,Critical
+Assam,Tinsukhia,6,NA,14,NA,81,NA
+Bihar,Patna,5,Low,37,Moderate,146,Critical
+Chandigarh,Chandigarh,2,Low,15,Low,81,High
+Chattisgarh,Bhilai Nagar,15,Low,25,Moderate,112,Critical
+Chattisgarh,Korba,13,Low,21,Moderate,117,Critical
+Dadra and Nagar Haveli,Silvassa,9,Low,17,Low,71,High
+Daman & Diu,Daman,7,Low,19,Low,57,Moderate
+Delhi,Delhi,6,Low,50,High,252,Critical
+Goa,Mormugao,4,Low,10,Low,72,High
+Goa,Panaji,3,Low,13,Low,74,High
+Goa,Vasco,4,Low,18,Low,76,High
+Gujarat,Ahmedabad,16,Low,21,Moderate,94,Critical
+Gujarat,Anklesvar,19,Low,27,Moderate,89,High
+Gujarat,Jamnagar,14,Low,27,Moderate,106,Critical
+Gujarat,Rajkot,11,Low,15,Low,105,Critical
+Gujarat,Surat,19,Low,26,Moderate,90,High
+Gujarat,Vadodara,16,Low,30,Moderate,86,High
+Gujarat,Vapi,16,Low,24,Moderate,79,High
+Haryana,Hisar,8,NA,5,NA,88,NA
+Haryana,Yamunanagar,13,NA,27,NA,275,NA
+Himachal Pradesh,Baddi,4,Low,12,Low,66,High
+Himachal Pradesh,Damtal,2,Low,12,Low,68,High
+Himachal Pradesh,Nahan,2,Low,17,Low,143,Critical
+Himachal Pradesh,Nalagarh,4,Low,13,Low,70,High
+Himachal Pradesh,Paonta Sahib,2,Low,16,Low,120,Critical
+Himachal Pradesh,Parwanoo,3,Low,11,Low,82,High
+Himachal Pradesh,Shimla,3,Low,12,Low,68,High
+Jammu & Kashmir,Jammu,9,Low,13,NA,116,NA
+Jharkhand,Dhanbad,17,NA,41,NA,164,Critical
+Jharkhand,Jamshedpur,36,Moderate,49,High,172,Critical
+Jharkhand,Jharia,17,Low,41,High,261,Critical
+Jharkhand,Ranchi,18,Low,32,Moderate,179,Critical
+Jharkhand,Sindri,16,Low,40,Moderate,166,Critical
+Karnataka,Bangalore,14,Low,37,Moderate,112,Critical
+Karnataka,Belgaum,2,Low,15,Low,30,Low
+Karnataka,Hassan,4,Low,22,Moderate,46,Moderate
+Karnataka,Hubli-Dharwad,3,Low,12,Low,110,Critical
+Karnataka,Mangalore,7,Low,6,Low,41,Moderate
+Karnataka,Mysore,14,Low,30,Moderate,48,Moderate
+Kerala,Kochi,4,Low,12,Low,42,Moderate
+Kerala,Kottayam,6,Low,19,Low,45,Moderate
+Kerala,Kozhikode,2,Low,9,Low,32,Moderate
+Kerala,Palakkad,3,Low,7,Low,50,Moderate
+Kerala,Trivandrum,9,Low,21,Moderate,61,High
+Maharashtra,Amravati,11,Low,13,Low,90,High
+Maharashtra,Aurangabad (MS),7,Low,25,Moderate,86,High
+Maharashtra,Chandrapur,38,Moderate,35,Moderate,115,Critical
+Maharashtra,Kolhapur,12,Low,14,Low,82,High
+Maharashtra,Mahad,12,NA,33,NA,163,NA
+Maharashtra,Mumbai,6,Low,41,High,117,Critical
+Maharashtra,Nagpur,6,Low,31,Moderate,101,Critical
+Maharashtra,Nashik,23,Low,29,Moderate,89,High
+Maharashtra,Navi Mumbai,15,Low,42,High,112,Critical
+Maharashtra,Pune,25,Low,40,Moderate,88,High
+Maharashtra,Solapur,18,Low,36,Moderate,72,High
+Maharashtra,Thane,12,Low,18,Low,58,Moderate
+Meghalaya,Byrnihat,18,NA,12,NA,139,NA
+Meghalaya,Dawki,3,NA,5,NA,57,NA
+Meghalaya,Shillong,2,Low,9,Low,78,High
+Mizoram,Aizawl,2,Low,6,Low,40,Moderate
+Madhya Pradesh,Bhopal,7,Low,17,Low,119,Critical
+Madhya Pradesh,Dewas,12,Low,19,Low,113,Critical
+Madhya Pradesh,Gwalior,10,NA,17,NA,187,NA
+Madhya Pradesh,Indore,9,Low,17,Low,183,Critical
+Madhya Pradesh,Jabalpur,2,Low,24,Moderate,136,Critical
+Madhya Pradesh,Nagda,17,Low,24,Moderate,113,Critical
+Madhya Pradesh,Satna,3,Low,10,Low,175,NA
+Madhya Pradesh,Singrauli,NA,NA,NA,NA,62,NA
+Madhya Pradesh,Ujjain,11,Low,12,Low,86,High
+Nagaland,Dimapur,2,NA,16,NA,80,NA
+Orissa,Angul,7,Low,20,Low,117,Critical
+Orissa,Balasore,2,Low,12,Low,85,High
+Orissa,Berhampur,2,Low,14,Low,60,Moderate
+Orissa,Bhubaneshwar,2,Low,19,Low,88,High
+Orissa,Cuttack,2,Low,20,Low,81,High
+Orissa,Rayagada,3,Low,21,Moderate,61,High
+Orissa,Rourkela,6,Low,11,Low,108,Critical
+Orissa,Sambalpur,4,Low,16,Low,54,Moderate
+Orissa,Talcher,12,Low,23,Moderate,107,Critical
+Pondicherry,Pondicherry,3,Low,11,Low,42,Moderate
+Punjab,Amritsar,15,Low,35,Moderate,190,Critical
+Punjab,Bathinda,8,Low,21,Moderate,NA,NA
+Punjab,Dera Bassi,8,Low,21,Moderate,NA,NA
+Punjab,Gobindgarh,11,Low,29,Moderate,201,Critical
+Punjab,Jalandhar,13,Low,30,Moderate,143,Critical
+Punjab,Khanna,9,Low,36,Moderate,248,Critical
+Punjab,Ludhiana,9,Low,37,Moderate,253,Critical
+Punjab,Naya Nangal,8,Low,20,Low,161,Critical
+Rajasthan,Alwar,8,Low,23,Moderate,153,Critical
+Rajasthan,Jaipur,6,Low,36,Moderate,151,Critical
+Rajasthan,Jodhpur,6,Low,23,Moderate,140,Critical
+Rajasthan,Kota,7,Low,24,Moderate,91,Critical
+Rajasthan,Udaipur,5,Low,26,Moderate,81,High
+Tamil Nadu,Chennai,9,Low,17,Low,73,High
+Tamil Nadu,Coimbatore,6,Low,27,Moderate,77,High
+Tamil Nadu,Madurai,10,Low,25,Moderate,42,Moderate
+Tamil Nadu,Salem,8,Low,24,Moderate,80,High
+Tamil Nadu,Thoothukudi,21,Low,14,Low,96,Critical
+Uttar Pradesh,Allahabad,3,Low,24,Moderate,160,Critical
+Uttar Pradesh,Anpara,18,Low,29,Moderate,135,Critical
+Uttar Pradesh,Firozabad,22,Low,32,Moderate,195,Critical
+Uttar Pradesh,Ghaziabad,29,Moderate,31,Moderate,239,Critical
+Uttar Pradesh,Jhansi,9,Low,27,Moderate,127,Critical
+Uttar Pradesh,Kanpur,8,Low,31,Moderate,212,Critical
+Uttar Pradesh,Khurja,31,Moderate,26,Moderate,179,Critical
+Uttar Pradesh,Lucknow,8,Low,36,Moderate,197,Critical
+Uttar Pradesh,Meerut,8,NA,44,NA,119,NA
+Uttar Pradesh,Noida,9,Low,33,Moderate,133,Critical
+Uttar Pradesh,Varanasi,17,Low,20,Low,125,Critical
+Uttarakhand,Dehradoon,28,NA,30,NA,130,NA
+West Bengal,Asansol,8,Low,55,High,154,Critical
+West Bengal,Durgapur (WB),10,Low,61,Critical,162,Critical
+West Bengal,Haldia,10,NA,67,NA,137,NA
+West Bengal,Howrah,12,Low,74,Critical,114,Critical
+West Bengal,Kolkata,11,Low,68,Critical,126,Critical
+West Bengal,Barrackpore,10,NA,71,NA,125,NA
+West Bengal,Raniganj,9,NA,83,NA,215,NA
+West Bengal,Sankrail,10,NA,68,NA,127,NA
+West Bengal,South suburban,7,NA,60,NA,83,NA

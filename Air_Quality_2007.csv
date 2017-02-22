@@ -1,0 +1,124 @@
+State,City,Sulfur dioxide(SO2)-Air Quality in Industrial Areas,Sulfur dioxide(SO2)-Air Quality in Residential Areas,Nitrogen dioxide(NO2)-Air Quality in Industrial Areas,Nitrogen dioxide(NO2)-Air Quality in Residential Areas,Respirable Suspended Particulate Matter(RSPM)-Air Quality in Industrial Areas,Respirable Suspended Particulate Matter(RSPM)-Air Quality in Residential Areas,Suspended Particulate Matter(SPM)-Air Quality in Industrial Areas,Suspended Particulate Matter(SPM)-Air Quality in Residential Areas
+Andhra Pradesh,Hyderabad,Low,Low,Low,Moderate,Moderate,Critical,Moderate,Critical
+Andhra Pradesh,Visakhapatnam,Low,Low,Low,Moderate,Moderate,Critical,Moderate,High
+Andhra Pradesh,Vijayawada,Low,Low,Low,Moderate,Moderate,High,Moderate,High
+Andhra Pradesh,Ramagundum,NA,Low,NA,Low,NA,High,NA,Critical
+Andhra Pradesh,Kurnool,NA,Low,NA,Low,NA,High,NA,High
+Assam,Guwahati,NA,Low,NA,Low,NA,Critical,NA,High
+Assam,Bongaigaon,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Assam,Tezpur,NA,Low,NA,Low,NA,High,NA,Moderate
+Assam,Dibrugarh,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Assam,Golaghat,NA,Low,NA,Low,NA,High,NA,Moderate
+Assam,Sivasagar,NA,Low,NA,Low,NA,Critical,NA,High
+Assam,Hailakandi,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Bihar,Patna ,NA,Low,NA,High,NA,Critical,NA,Critical
+Chattisgarh,Bhilai,Low,Low,Low,Low,High,Critical,Moderate,High
+Chattisgarh,Korba,NA,Low,NA,Low,NA,Critical,NA,Critical
+Chattisgarh,Raipur,Low,Low,Low,Moderate,High,Critical,Moderate,Critical
+Chandigarh,Chandigarh,Low,Low,Low,Low,High,Critical,Moderate,Critical
+Delhi,Delhi,Low,Low,Moderate,High,Critical,Critical,High,Critical
+Gujarat,Ahmedabad,Low,Low,Low,Low,High,Critical,Moderate,Critical
+Gujarat,Ankleshwar,Low,Low,Low,Low,Moderate,Critical,Moderate,High
+Gujarat,Jamnagar,NA,Low,NA,Low,NA,Critical,NA,High
+Gujarat,Rajkot,Low,Low,Low,Low,High,High,Moderate,High
+Gujarat,Surat,Low,Low,Low,Low,Moderate,Critical,Moderate,High
+Gujarat,Vadodara,Low,Low,Moderate,Low,High,Critical,Moderate,Critical
+Gujarat,Vapi,Low,Low,Low,Low,Moderate,High,Low,Moderate
+Goa,Panjim,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Goa,Vasco,Low,NA,Low,NA,Low,NA,Low,NA
+Himachal Pradesh,Damtal,NA,Low,NA,Low,NA,High,NA,High
+Himachal Pradesh,Parwanoo,Low,Low,Low,Low,Moderate,High,Low,Moderate
+Himachal Pradesh,Paonta Sahib,Low,Low,Low,Low,High,High,Moderate,Moderate
+Himachal Pradesh,Shimla,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Himachal Pradesh,Baddi,Low,NA,Low,NA,NA,NA,High,NA
+Himachal Pradesh,Kala Amb,Low,Low,Low,Low,NA,NA,High,Moderate
+Haryana,Faridabad,Low,Low,Low,Low,High,Critical,High,Critical
+Haryana,Hissar,NA,Low,NA,Low,NA,Critical,NA,Critical
+Jharkhand,Dhanbad,NA,Low,NA,Moderate,NA,Critical,NA,High
+Jharkhand,Jharia,Low,NA,Moderate,NA,Critical,NA,Moderate,NA
+Jharkhand,Sindri,Low,NA,Moderate,NA,High,NA,Low,NA
+Jharkhand,Jamshedpur,Low,NA,Moderate,NA,High,NA,Moderate,NA
+Jharkhand,Ranchi,NA,Low,NA,Moderate,NA,Critical,NA,Critical
+Karnataka,Bangalore,Low,Low,Moderate,Moderate,High,High,Moderate,High
+Karnataka,Mysore,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Karnataka,Hubli-Dharwad,Low,Low,Low,Low,Moderate,Critical,Low,Critical
+Karnataka,Belgaum,Low,NA,Low,NA,Low,NA,Low,NA
+Karnataka,Hassan,NA,Low,NA,Low,NA,High,NA,Moderate
+Karnataka,Mangalore,Low,NA,Low,NA,Moderate,NA,Low,NA
+Kerala,Kochi,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Kerala,Kottayam,Low,Low,Low,Low,Low,Moderate,Low,Low
+Kerala,Kozhikode,Low,Low,Low,Low,Low,Low,Low,Moderate
+Kerala,Thiruvananthapuram,Low,Low,Low,Moderate,Moderate,High,Low,Moderate
+Kerala,Palakad,Low,NA,Low,NA,Moderate,NA,Low,NA
+Maharashtra,Mumbai,Low,Low,Low,Moderate,Moderate,Critical,Moderate,Critical
+Maharashtra,Chandrapur,Moderate,Moderate,Moderate,Moderate,High,Critical,Moderate,Critical
+Maharashtra,Dombivali,Low,NA,Low,NA,Moderate,NA,NA,NA
+Maharashtra,Kolhapur,NA,Low,NA,Low,NA,High,NA,Critical
+Maharashtra,Nagpur,Low,Low,Low,Low,High,Critical,Moderate,Critical
+Maharashtra,Nashik,Moderate,Moderate,Low,Moderate,Low,Moderate,Low,Moderate
+Maharashtra,Pune,Low,Low,Moderate,Moderate,Moderate,Critical,Moderate,High
+Maharashtra,Solapur,Low,Low,Low,Moderate,Moderate,Critical,Moderate,Critical
+Maharashtra,Thane,Low,Low,Low,Low,Low,Moderate,NA,NA
+Maharashtra,Aurangabad,NA,Low,NA,Low,NA,High,NA,Critical
+Maharashtra,Navi Mumbai,Low,Low,Low,Moderate,Moderate,Critical,Moderate,Critical
+Maharashtra,Lote,Low,Low,Low,Low,Moderate,High,Low,High
+Maharashtra,Tarapur,Low,NA,Low,NA,Moderate,NA,Low,NA
+Maharashtra,Amravati,Low,Low,Low,Low,Moderate,High,NA,NA
+Madhya Pradesh,Bhopal,Low,Low,Low,Low,Moderate,Critical,Moderate,Critical
+Madhya Pradesh,Indore,Low,Low,Low,Low,High,Critical,Moderate,High
+Madhya Pradesh,Jabalpur,NA,Low,NA,Low,NA,Critical,NA,Critical
+Madhya Pradesh,Nagda,Low,Low,Low,Moderate,Moderate,High,Low,Moderate
+Madhya Pradesh,Satna,Low,Low,Low,Low,Critical,Critical,High,High
+Madhya Pradesh,Gwalior,NA,Low,NA,Low,NA,Critical,NA,Critical
+Madhya Pradesh,Dewas,Low,Low,Low,Low,Low,Low,Low,Low
+Madhya Pradesh,Sagar,NA,Low,NA,Low,NA,NA,NA,Critical
+Madhya Pradesh,Ujjain,Low,Low,Low,Low,High,Critical,Moderate,High
+Madhya Pradesh,Singrauli,NA,NA,NA,NA,NA,High,NA,Critical
+Meghalaya,Shillong,NA,Low,NA,Low,NA,High,NA,Moderate
+Mizoram,Aizwal,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Nagaland,Dimapur,NA,Low,NA,Low,NA,High,NA,Moderate
+Orissa,Angul,Low,Low,Low,Low,High,High,Moderate,High
+Orissa,Bhubaneshwar,NA,Low,NA,Low,NA,High,NA,High
+Orissa,Cuttack,NA,Low,NA,Moderate,NA,High,NA,Critical
+Orissa,Rourkela,NA,Low,NA,Low,NA,Critical,NA,High
+Orissa,Talcher,Low,NA,Low,NA,Moderate,NA,Moderate,NA
+Orissa,Rayagada,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Orissa,Sambalpur,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Orissa,Berhampur,NA,Low,NA,Low,NA,High,NA,High
+Orissa,Balasore,NA,Low,NA,Low,NA,High,NA,Moderate
+Pondicherry,Pondicherry,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Punjab,Gobindgarh,Low,Low,Low,Moderate,Critical,Critical,NA,NA
+Punjab,Jalandhar,Low,Low,Low,Moderate,Critical,Critical,NA,NA
+Punjab,Ludhiana,Low,Low,Moderate,Moderate,Critical,Critical,NA,NA
+Punjab,Naya Nangal,NA,Low,NA,Low,NA,Critical,NA,Critical
+Punjab,Amritsar,Low,Low,Low,Moderate,NA,NA,High,Critical
+Punjab,Khanna,Low,Low,Low,Moderate,Critical,Critical,NA,NA
+Punjab,Derabassi,Low,NA,Low,NA,NA,NA,Moderate,NA
+Punjab,Bhatinda,Low,NA,Low,NA,NA,NA,Moderate,NA
+Rajasthan,Alwar,Low,Low,Low,Low,Moderate,Critical,Moderate,Critical
+Rajasthan,Jaipur,Low,Low,Low,Moderate,Critical,Critical,High,Critical
+Rajasthan,Kota,Low,Low,Low,Low,Moderate,Critical,Moderate,Critical
+Rajasthan,Udaipur,Low,Low,Low,Low,High,High,High,Critical
+Rajasthan,Jodhpur,Low,Low,Low,Low,High,Critical,High,Critical
+Tamil Nadu,Chennai,Low,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Tamil Nadu,Coimbatore,Low,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Tamil Nadu,Madurai,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Tamil Nadu,Salem,NA,Low,NA,Low,NA,Moderate,NA,Moderate
+Tamil Nadu,Tuticorin,Low,Low,Low,Low,Moderate,Critical,Moderate,High
+Uttaranchal,Dehradun,NA,Low,NA,Low,NA,Critical,NA,Critical
+Uttar Pradesh,Anpara,Low,NA,Low,NA,High,NA,Moderate,NA
+Uttar Pradesh,Gajraula,Low,NA,Low,NA,Moderate,NA,Moderate,NA
+Uttar Pradesh,Kanpur,Low,Low,Low,Low,Critical,Critical,High,Critical
+Uttar Pradesh,Firozabad,Low,Low,Low,Moderate,Critical,Critical,High,Critical
+Uttar Pradesh,Lucknow,Low,Low,Low,Moderate,Critical,Critical,High,Critical
+Uttar Pradesh,Noida,Low,Low,Moderate,Moderate,High,Critical,High,Critical
+Uttar Pradesh,Varanasi,NA,Low,NA,Low,NA,Critical,NA,Critical
+Uttar Pradesh,Ghaziabad,Low,NA,Low,NA,Critical,NA,High,NA
+Uttar Pradesh,Jhansi,NA,Low,NA,Low,NA,Critical,NA,Critical
+Uttar Pradesh,Khurja,Moderate,Moderate,Low,Moderate,Critical,Critical,High,Critical
+Uttar Pradesh,Meerut,NA,Low,NA,Moderate,NA,Critical,NA,NA
+West Bengal,Asansol,Low,NA,Moderate,NA,Moderate,NA,Moderate,NA
+West Bengal,Durgapur,Low,Low,Moderate,Moderate,High,High,Moderate,High
+West Bengal,Haldia,Low,NA,Moderate,NA,Moderate,NA,Low,NA
+West Bengal,Howrah,Low,Low,High,High,High,Critical,Moderate,Critical
+West Bengal,Kolkata,Low,Low,Moderate,High,High,Critical,Moderate,Critical
